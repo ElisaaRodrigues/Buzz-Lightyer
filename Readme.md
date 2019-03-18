@@ -1,11 +1,11 @@
-## Buzz Lightyer
+# Buzz Lightyer
 
 - Neste projeto especificaremos uma classe para determinar as funcionalidades 
 do Buzz Lightyer
 
 - Há a possibilidade de criação de vários Buzz Lightyer idênticos
 
-# Algumas funcionalidades:
+## Algumas funcionalidades:
 
 - Capacete retrátil
 - 6 frases distintas
