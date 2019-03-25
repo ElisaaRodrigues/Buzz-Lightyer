@@ -4,7 +4,7 @@
 do Buzz Lightyer
 
 - Há a possibilidade de criação de vários Buzz Lightyer idênticos
-! [BuzzLightyer](https://www.bigw.com.au/medias/sys_master/images/images/h44/h1d/10749470474270.png)
+! [Buzz Lightyer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOzQuyMz081klj0Coxs_M4ru7ajxHieJ0-wE8KupvgCA09MuX8A.png)
 
 ## Algumas funcionalidades:
 
