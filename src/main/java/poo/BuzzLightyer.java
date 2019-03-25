@@ -29,12 +29,7 @@ public class BuzzLightyer {
     }
 
     public void pressCapacete(){
-        if(capaceteFechado){
-            capaceteFechado = false;
-        }
-        else{
-            capaceteFechado = true;
-        }
+        capaceteFechado = !capaceteFechado;
     }
 
     public String pressLaser(){
@@ -46,12 +41,7 @@ public class BuzzLightyer {
     }
 
     public void pressAsas(){
-        if(asasFechadas){
-            asasFechadas = false;
-        }
-        else{
-            asasFechadas = true;
-        }
+        asasFechadas = !asasFechadas;
     }
 
     public String asas(){
