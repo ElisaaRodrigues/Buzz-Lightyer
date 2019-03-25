@@ -5,7 +5,7 @@ do Buzz Lightyer
 
 - Há a possibilidade de criação de vários Buzz Lightyer idênticos
 
-![Buzz](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOzQuyMz081klj0Coxs_M4ru7ajxHieJ0-wE8KupvgCA09MuX8A.png)
+![Buzz](https://upload.wikimedia.org/wikipedia/pt/a/a6/Buzz_Lightyear.jpg)
 
 ## Algumas funcionalidades:
 
